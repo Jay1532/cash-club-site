@@ -15,18 +15,23 @@ import thriteen from "../pics/ComponentTMP_0-image13.png";
 
 function Home() {
   return (
-    <svg viewBox="0 0 1440 4328">
+  <svg viewBox="0 0 1440 4328">
     <defs>
       <style>
         {
-          ".a{clip-path:url(#t);}.b{fill:url(#a);}.c{fill:rgba(226,203,127,0.52);}.ab,.ai,.am,.d,.k,.l,.p{fill:#fff;}.av,.e,.f,.m,.r{fill:none;}.e,.f{stroke:#39556a;}.e{opacity:0.1;}.f,.z{opacity:0.2;}.g{fill:#05796b;}.h,.l{font-size:40px;}.ab,.ac,.af,.ah,.ai,.aj,.ak,.ap,.h,.i,.k,.l,.p,.q,.s,.w,.z{font-family:SegoeUI, Segoe UI;}.h{letter-spacing:-0.025em;}.ac,.ap,.i{fill:#757095;}.ak,.ao,.i{font-size:20px;}.j{fill:#e35c4b;}.k{font-size:14px;}.l{letter-spacing:-0.018em;}.m{stroke:#e6efff;stroke-linecap:round;stroke-linejoin:round;}.m,.n,.r{stroke-width:2px;}.n{fill:#002f86;stroke:#fff;}.o{fill:url(#g);}.p,.q,.w{font-size:10px;}.r{stroke:#000;}.s{font-size:22px;}.t{fill:url(#h);}.u{fill:url(#i);}.v{fill:#f8f8fe;}.w,.x,.z{fill:#181433;}.ae,.x{font-size:21px;}.ae,.ag,.ao,.x{font-family:SegoeUI-Bold, Segoe UI;font-weight:700;}.y{fill:#f9f9f9;}.ab,.ac,.af,.ah,.z{font-size:16px;}.aa{fill:#39556a;}.ad{fill:#3734a9;}.ae{fill:#1b1c31;}.af{fill:#2100ff;text-decoration:underline;}.ag{fill:#282828;font-size:26px;letter-spacing:-0.038em;}.ah{fill:#8593a3;}.ai{font-size:18px;}.aj{font-size:60px;letter-spacing:-0.017em;}.al{fill:url(#l);}.am{stroke:#e7e7e7;}.an{fill:#ececec;}.ap{font-size:12px;}.aq{fill:url(#o);}.ar{fill:url(#p);}.as{fill:url(#q);}.at{fill:url(#r);}.au{stroke:none;}.aw{filter:url(#m);}.ax{filter:url(#j);}.ay{filter:url(#d);}.az{filter:url(#b);}"
+          ".a{clip-path:url(#t);}.b{fill:url(#a);}.c{fill:rgba(226,203,127,0.52);}.aa,.ah,.al,.d,.k,.l,.p{fill:#fff;}.au,.e,.f,.m{fill:none;}.e,.f{stroke:#39556a;}.e{opacity:0.1;}.f,.y{opacity:0.2;}.g{fill:#05796b;}.h,.l{font-size:40px;}.aa,.ab,.ae,.ag,.ah,.aj,.ao,.h,.i,.k,.l,.p,.q,.r,.v,.y{font-family:SegoeUI, Segoe UI;}.h{letter-spacing:-0.025em;}.ab,.ao,.i{fill:#757095;}.aj,.an,.i{font-size:20px;}.j{fill:#e35c4b;}.k{font-size:14px;}.l{letter-spacing:-0.018em;}.m{stroke:#e6efff;stroke-linecap:round;stroke-linejoin:round;}.m,.n{stroke-width:2px;}.n{fill:#002f86;stroke:#fff;}.o{fill:url(#g);}.p,.q,.v{font-size:10px;}.r{font-size:22px;}.s{fill:url(#h);}.t{fill:url(#i);}.u{fill:#f8f8fe;}.v,.w,.y{fill:#181433;}.ad,.w{font-size:21px;}.ad,.af,.an,.w{font-family:SegoeUI-Bold, Segoe UI;font-weight:700;}.x{fill:#f9f9f9;}.aa,.ab,.ae,.ag,.y{font-size:16px;}.z{fill:#39556a;}.ac{fill:#3734a9;}.ad{fill:#1b1c31;}.ae{fill:#2100ff;text-decoration:underline;}.af{fill:#282828;font-size:26px;letter-spacing:-0.038em;}.ag{fill:#8593a3;}.ah{font-size:18px;}.ai{font-size:60px;font-family:Candara;letter-spacing:-0.017em;}.ak{fill:url(#l);}.al{stroke:#e7e7e7;}.am{fill:#ececec;}.ao{font-size:12px;}.ap{fill:url(#o);}.aq{fill:url(#p);}.ar{fill:url(#q);}.as{fill:url(#r);}.at{stroke:none;}.av{filter:url(#m);}.aw{filter:url(#j);}.ax{filter:url(#d);}.ay{filter:url(#b);}"
         }
       </style>
-      <pattern id="a" width={1} height={1} viewBox="0 32.608 2087 679">
+      <pattern
+        id="a"
+        preserveAspectRatio="none"
+        width="100%"
+        height="100%"
+        viewBox="0 0 3592 1620"
+      >
         <image
-          preserveAspectRatio="none"
-          width={2087}
-          height={679}
+          width={3592}
+          height={1620}
           xlinkHref={one}
         />
       </pattern>
@@ -182,19 +187,19 @@ function Home() {
       <rect className="d" width={1440} height={4328} />
       <rect
         className="b"
-        width={2087}
-        height={679}
-        transform="translate(-119 59)"
+        width={1440}
+        height={649}
+        transform="translate(0 57)"
       />
       <g data-type="innerShadowGroup">
-        <g className="az" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g className="ay" transform="matrix(1, 0, 0, 1, 0, 0)">
           <path
             className="c"
             d="M0,0H1679V715.9H0Z"
             transform="translate(-119 706)"
           />
         </g>
-        <g className="ay" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g className="ax" transform="matrix(1, 0, 0, 1, 0, 0)">
           <path
             className="d"
             d="M0,0H1679V715.9H0Z"
@@ -289,12 +294,12 @@ function Home() {
           transform="matrix(1, 0, 0, 1, 1203.839, 2903.667)"
         />
         <g className="n" transform="translate(1294.255 2900.333)">
-          <circle className="au" cx={5} cy={5} r={5} />
-          <circle className="av" cx={5} cy={5} r={4} />
+          <circle className="at" cx={5} cy={5} r={5} />
+          <circle className="au" cx={5} cy={5} r={4} />
         </g>
         <g className="n" transform="translate(1199.255 2907)">
-          <circle className="au" cx={5} cy={5} r={5} />
-          <circle className="av" cx={5} cy={5} r={4} />
+          <circle className="at" cx={5} cy={5} r={5} />
+          <circle className="au" cx={5} cy={5} r={4} />
         </g>
         <g transform="translate(1 -286.201)">
           <path
@@ -303,12 +308,12 @@ function Home() {
             transform="translate(184.455 3673) rotate(-90)"
           />
           <g className="n" transform="translate(181.255 3586.2) rotate(-90)">
-            <circle className="au" cx={4.8} cy={4.8} r={4.8} />
-            <circle className="av" cx={4.8} cy={4.8} r={3.8} />
+            <circle className="at" cx={4.8} cy={4.8} r={4.8} />
+            <circle className="au" cx={4.8} cy={4.8} r={3.8} />
           </g>
           <g className="n" transform="translate(187.656 3677.4) rotate(-90)">
-            <circle className="au" cx={4.8} cy={4.8} r={4.8} />
-            <circle className="av" cx={4.8} cy={4.8} r={3.8} />
+            <circle className="at" cx={4.8} cy={4.8} r={4.8} />
+            <circle className="au" cx={4.8} cy={4.8} r={3.8} />
           </g>
         </g>
         <rect
@@ -318,124 +323,88 @@ function Home() {
           transform="translate(403.755 3017)"
         />
       </g>
-      <g transform="translate(1304.169 56)">
-        <g transform="translate(25.831 -40)">
-          <rect className="j" width={91} height={29} rx={14.5} />
-          <text className="p" transform="translate(3 7)">
-            <tspan x={14.926} y={11}>
-              {"Start Branch!"}
-            </tspan>
-          </text>
-        </g>
+      <g transform="translate(1330 16)">
+        <rect className="j" width={91} height={29} rx={14.5} />
+        <text className="p" transform="translate(3 7)">
+          <tspan x={14.926} y={11}>
+            {"Start Branch!"}
+          </tspan>
+        </text>
       </g>
-      <text className="q" transform="translate(886 24)">
+      <text className="q" transform="translate(1062 22)">
         <tspan x={13.303} y={11}>
           {"Clubs"}
         </tspan>
       </text>
-      <text className="q" transform="translate(954 24)">
+      <text className="q" transform="translate(1130 22)">
         <tspan x={7.382} y={11}>
           {"Donate"}
         </tspan>
       </text>
-      <text className="q" transform="translate(739 23)">
+      <text className="q" transform="translate(994 22)">
         <tspan x={12.099} y={11}>
           {"Home"}
         </tspan>
       </text>
-      <text className="q" transform="translate(1094 23)">
+      <text className="q" transform="translate(1257 22)">
         <tspan x={9.315} y={11}>
           {"Events"}
         </tspan>
       </text>
-      <text className="q" transform="translate(1153 24)">
-        <tspan x={13.41} y={11}>
-          {"News"}
+      <text className="q" transform="translate(1194 22)">
+        <tspan x={11.882} y={11}>
+          {"About "}
         </tspan>
       </text>
-      <text className="q" transform="translate(1208 23)">
-        <tspan x={12.145} y={11}>
-          {"Shop"}
-        </tspan>
-      </text>
-      <text className="q" transform="translate(1263 23)">
-        <tspan x={9.887} y={11}>
-          {"Alumni"}
-        </tspan>
-      </text>
-      <g transform="translate(75.5 -4.556)">
-        <text className="q" transform="translate(942.5 28.556)">
-          <tspan x={11.882} y={11}>
-            {"About "}
-          </tspan>
-        </text>
-        <path
-          className="r"
-          d="M0,0,3.5,3.889,7,0"
-          transform="translate(986.5 34.556)"
-        />
-      </g>
       <image
         width={45}
         height={45}
-        transform="translate(20 8)"
+        transform="translate(23 7)"
         xlinkHref={four}
       />
-      <g transform="translate(85)">
-        <text className="q" transform="translate(717 23)">
-          <tspan x={13.136} y={11}>
-            {"Academy"}
-          </tspan>
-        </text>
-        <path
-          className="r"
-          d="M0,0,3.5,3.889,7,0"
-          transform="translate(775 28.556)"
-        />
-      </g>
       <g transform="translate(-421 4786)">
-        <text className="s" transform="translate(859.611 -1301)">
+        <text className="r" transform="translate(859.611 -1301)">
           <tspan x={215.742} y={24}>
             {"Featured On"}
           </tspan>
         </text>
-        <text className="s" transform="translate(865 -1075)">
+        <text className="r" transform="translate(865 -1075)">
           <tspan x={218.4} y={24}>
             {"Awarded By"}
           </tspan>
         </text>
         <rect
-          className="t"
+          className="s"
           width={164}
           height={76}
           transform="translate(696 -1226)"
         />
         <rect
-          className="u"
+          className="t"
           width={331}
           height={174}
           transform="translate(1412 -1275)"
         />
         <rect
-          className="v"
+          className="u"
           width={1170}
           height={2}
           transform="translate(556 -1089)"
         />
         <path
-          className="v"
+          className="u"
           d="M0,0H1170V2H0Z"
           transform="translate(556 -849)"
         />
         <rect
-          className="v"
+          className="u"
           width={1170}
           height={2}
           transform="translate(556 -1315)"
         />
       </g>
       <g transform="translate(-205.755 1439.919)">
-        <text className="w" transform="translate(587.755 2771.581)">
+        <text className="v" transform="translate(587.755 2771.581)">
           <tspan x={276.171} y={11}>
             {"\xA9 2022 by CASH Club Corp."}
           </tspan>
@@ -456,43 +425,43 @@ function Home() {
           </tspan>
         </text>
         <rect
-          className="v"
+          className="u"
           width={1169}
           height={2}
           transform="translate(341.255 2752.581)"
         />
         <g transform="translate(-8.245 -4445.419)">
           <g transform="translate(4 27)">
-            <text className="x" transform="translate(923 6978)">
+            <text className="w" transform="translate(923 6978)">
               <tspan x={0} y={23}>
                 {"Join Our Newsletter"}
               </tspan>
             </text>
             <rect
-              className="y"
+              className="x"
               width={389}
               height={52}
               transform="translate(923 7026)"
             />
-            <text className="z" transform="translate(938 7041)">
+            <text className="y" transform="translate(938 7041)">
               <tspan x={0} y={17}>
                 {"Your email address"}
               </tspan>
             </text>
             <rect
-              className="aa"
+              className="z"
               width={149}
               height={52}
               transform="translate(1163 7026)"
             />
-            <text className="ab" transform="translate(1206 7043)">
+            <text className="aa" transform="translate(1206 7043)">
               <tspan x={0} y={17}>
                 {"Subscribe"}
               </tspan>
             </text>
           </g>
           <g transform="translate(380 -20)">
-            <text className="ac" transform="translate(172 7017)">
+            <text className="ab" transform="translate(172 7017)">
               <tspan x={0} y={17}>
                 {"Phone: (972) 836 - 8045"}
               </tspan>
@@ -505,47 +474,47 @@ function Home() {
             </text>
             <g transform="translate(172 7111)">
               <path
-                className="ad"
+                className="ac"
                 d="M12.921,13.688h.005V6.352C12.926,2.764,12.153,0,7.958,0A4.355,4.355,0,0,0,4.036,2.156H3.977V.335H0V13.688H4.142V7.076c0-1.741.33-3.424,2.486-3.424,2.124,0,2.156,1.987,2.156,3.536v6.5Z"
                 transform="translate(7.074 6.312)"
               />
               <path
-                className="ad"
+                className="ac"
                 d="M0,0H4.147V13.352H0Z"
                 transform="translate(0.33 6.648)"
               />
               <path
-                className="ad"
+                className="ac"
                 d="M2.4,0A2.413,2.413,0,1,0,4.8,2.4,2.4,2.4,0,0,0,2.4,0Z"
               />
             </g>
             <g transform="translate(208.974 7111)">
               <path
-                className="ad"
+                className="ac"
                 d="M17.945,4.053A8.185,8.185,0,0,0,20,1.924h0a8.563,8.563,0,0,1-2.362.648A4.078,4.078,0,0,0,19.442.3a8.2,8.2,0,0,1-2.6.993A4.1,4.1,0,0,0,9.749,4.1a4.222,4.222,0,0,0,.1.935A11.608,11.608,0,0,1,1.393.747a4.1,4.1,0,0,0,1.26,5.48A4.053,4.053,0,0,1,.8,5.722v.045A4.119,4.119,0,0,0,4.085,9.8a4.077,4.077,0,0,1-1.075.135,3.619,3.619,0,0,1-.776-.07,4.141,4.141,0,0,0,3.831,2.857A8.242,8.242,0,0,1,.981,14.466,7.755,7.755,0,0,1,0,14.41a11.547,11.547,0,0,0,6.29,1.84,11.59,11.59,0,0,0,11.655-12.2Z"
                 transform="translate(0 1.875)"
               />
             </g>
             <g transform="translate(245.963 7111)">
               <path
-                className="ad"
+                className="ac"
                 d="M8.445,9.522c.053-.045.108-.092.158-.141a5,5,0,0,1-8.388-2.4V6.98C-1.213,1.738,4.806-2.244,8.6,1.423L13.59,6.742H13.6a1.759,1.759,0,0,0,2.587.013,2.04,2.04,0,0,0,.039-2.761,1.826,1.826,0,0,0-3.116,1.589L11.854,4.3,10.39,2.9a5.413,5.413,0,0,1,1.193-1.577c-.053.046-.108.093-.158.141a5.005,5.005,0,0,1,8.388,2.4v0c1.431,5.241-4.595,9.223-8.387,5.556L6.443,4.071l0-.013a.013.013,0,0,1-.013-.013,1.735,1.735,0,0,0-2.587-.026A2.023,2.023,0,0,0,3.8,6.77,1.838,1.838,0,0,0,6.915,5.142l2.728,2.8a5.656,5.656,0,0,1-1.2,1.579Z"
                 transform="translate(-0.015 4.577)"
               />
             </g>
-            <text className="ae" transform="translate(172 6980.5)">
+            <text className="ad" transform="translate(172 6980.5)">
               <tspan x={0} y={23}>
                 {"CONTACT"}
               </tspan>
             </text>
           </g>
         </g>
-        <text className="af" transform="translate(545.255 2682.581)">
+        <text className="ae" transform="translate(545.255 2682.581)">
           <tspan x={0} y={17}>
             {"Terms/Conditions"}
           </tspan>
         </text>
-        <text className="af" transform="translate(545.255 2711.581)">
+        <text className="ae" transform="translate(545.255 2711.581)">
           <tspan x={0} y={17}>
             {"Privacy Policy"}
           </tspan>
@@ -559,12 +528,12 @@ function Home() {
           rx={40}
           transform="translate(-26 492)"
         />
-        <text className="ag" transform="translate(73 787)">
+        <text className="af" transform="translate(73 787)">
           <tspan x={0} y={28}>
             {"About Us"}
           </tspan>
         </text>
-        <text className="ah" transform="translate(73 824)">
+        <text className="ag" transform="translate(73 824)">
           <tspan x={0} y={17}>
             {"The Community for Aspiring "}
           </tspan>
@@ -578,12 +547,12 @@ function Home() {
             {"built for high school students."}
           </tspan>
         </text>
-        <text className="ag" transform="translate(459 787)">
+        <text className="af" transform="translate(459 787)">
           <tspan x={0} y={28}>
             {"Est. 2018"}
           </tspan>
         </text>
-        <text className="ah" transform="translate(459 824)">
+        <text className="ag" transform="translate(459 824)">
           <tspan x={0} y={17}>
             {"Our goal is to learn about "}
           </tspan>
@@ -597,7 +566,7 @@ function Home() {
             {"a young age."}
           </tspan>
         </text>
-        <g className="ax" transform="matrix(1, 0, 0, 1, -119, 322)">
+        <g className="aw" transform="matrix(1, 0, 0, 1, -119, 322)">
           <rect
             className="j"
             width={189}
@@ -606,16 +575,16 @@ function Home() {
             transform="translate(389 392)"
           />
         </g>
-        <text className="ai" transform="translate(300 729)">
+        <text className="ah" transform="translate(300 729)">
           <tspan x={10.597} y={19}>
             {"Register now!"}
           </tspan>
         </text>
-        <text className="aj" transform="translate(-8 533)">
-          <tspan x={86.012} y={65}>
+        <text className="ai" transform="translate(-17 538)">
+          <tspan x={105} y={57}>
             {"Empowering the Next "}
           </tspan>
-          <tspan x={74.328} y={145}>
+          <tspan x={92.613} y={137}>
             {"Generation of Investors"}
           </tspan>
         </text>
@@ -627,12 +596,12 @@ function Home() {
           transform="translate(5.5 -278.006)"
         />
         <g className="n" transform="translate(114 -276.416)">
-          <circle className="au" cx={6} cy={6} r={6} />
-          <circle className="av" cx={6} cy={6} r={5} />
+          <circle className="at" cx={6} cy={6} r={6} />
+          <circle className="au" cx={6} cy={6} r={5} />
         </g>
         <g className="n" transform="translate(-3.5 -276.416)">
-          <circle className="au" cx={6} cy={6} r={6} />
-          <circle className="av" cx={6} cy={6} r={5} />
+          <circle className="at" cx={6} cy={6} r={6} />
+          <circle className="au" cx={6} cy={6} r={5} />
         </g>
       </g>
       <g transform="translate(1282.5 1828.416)">
@@ -642,12 +611,12 @@ function Home() {
           transform="translate(5.5 -445.635)"
         />
         <g className="n" transform="translate(111 -446.635)">
-          <circle className="au" cx={6} cy={6} r={6} />
-          <circle className="av" cx={6} cy={6} r={5} />
+          <circle className="at" cx={6} cy={6} r={6} />
+          <circle className="au" cx={6} cy={6} r={5} />
         </g>
         <g className="n" transform="translate(-0.5 -446.635)">
-          <circle className="au" cx={6} cy={6} r={6} />
-          <circle className="av" cx={6} cy={6} r={5} />
+          <circle className="at" cx={6} cy={6} r={6} />
+          <circle className="au" cx={6} cy={6} r={5} />
         </g>
       </g>
       <g transform="translate(-13 -371)">
@@ -656,7 +625,7 @@ function Home() {
             {"Start A Branch"}
           </tspan>
         </text>
-        <text className="ak" transform="translate(496 1148)">
+        <text className="aj" transform="translate(496 1148)">
           <tspan x={110.176} y={22}>
             {"Bring CASH Club to your school"}
           </tspan>
@@ -668,7 +637,7 @@ function Home() {
           xlinkHref={seven}
         />
         <g transform="translate(677.5 1183)">
-          <rect className="aa" width={137} height={52} rx={26} />
+          <rect className="z" width={137} height={52} rx={26} />
           <text className="k" transform="translate(26 17)">
             <tspan x={16.282} y={15}>
               {"Let's Go!"}
@@ -766,19 +735,19 @@ function Home() {
           transform="translate(61.352 26.376)"
         />
       </g>
-      <g className="aw" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g className="av" transform="matrix(1, 0, 0, 1, 0, 0)">
         <rect
-          className="al"
+          className="ak"
           width={1567}
           height={1045}
           transform="translate(-89 1422)"
         />
       </g>
       <g transform="translate(-39 26)">
-        <g className="am" transform="translate(174 1562)">
-          <rect className="au" width={270} height={406} rx={15} />
+        <g className="al" transform="translate(174 1562)">
+          <rect className="at" width={270} height={406} rx={15} />
           <rect
-            className="av"
+            className="au"
             x={0.5}
             y={0.5}
             width={269}
@@ -787,7 +756,7 @@ function Home() {
           />
         </g>
         <rect
-          className="an"
+          className="am"
           width={40}
           height={40}
           rx={5}
@@ -799,12 +768,12 @@ function Home() {
             transform="translate(2.991 2.93)"
           />
         </g>
-        <text className="ao" transform="translate(247 1687)">
+        <text className="an" transform="translate(247 1687)">
           <tspan x={0} y={22}>
             {"Branches"}
           </tspan>
         </text>
-        <text className="ap" transform="translate(247 1721)">
+        <text className="ao" transform="translate(247 1721)">
           <tspan x={0} y={13}>
             {"50+ Branches Total!"}
           </tspan>
@@ -821,10 +790,10 @@ function Home() {
             {"and more!"}
           </tspan>
         </text>
-        <g className="am" transform="translate(474 1562)">
-          <rect className="au" width={270} height={406} rx={15} />
+        <g className="al" transform="translate(474 1562)">
+          <rect className="at" width={270} height={406} rx={15} />
           <rect
-            className="av"
+            className="au"
             x={0.5}
             y={0.5}
             width={269}
@@ -833,13 +802,13 @@ function Home() {
           />
         </g>
         <rect
-          className="an"
+          className="am"
           width={40}
           height={40}
           rx={5}
           transform="translate(541 1622)"
         />
-        <text className="ao" transform="translate(541 1687)">
+        <text className="an" transform="translate(541 1687)">
           <tspan x={0} y={22}>
             {"Bite-Sized "}
           </tspan>
@@ -847,7 +816,7 @@ function Home() {
             {"Curriculum"}
           </tspan>
         </text>
-        <text className="ap" transform="translate(541 1752)">
+        <text className="ao" transform="translate(541 1752)">
           <tspan x={0} y={13}>
             {"Packaged "}
           </tspan>
@@ -864,10 +833,10 @@ function Home() {
         <g transform="translate(553.99 1631.992)">
           <path d="M4.011,0a1.019,1.019,0,0,0-.969.719l-3,10A1,1,0,0,0,1.011,12H4.886l-.875,6.875a1.014,1.014,0,0,0,1.844.688l8-12A1.011,1.011,0,0,0,13.011,6H8.386L9.949,1.313A.991.991,0,0,0,9.011,0Zm.75,2H7.636L6.073,6.688A.991.991,0,0,0,7.011,8h4.125L6.542,14.875l.469-3.75a1.006,1.006,0,0,0-1-1.125H2.355Z" />
         </g>
-        <g className="am" transform="translate(774 1562)">
-          <rect className="au" width={270} height={406} rx={15} />
+        <g className="al" transform="translate(774 1562)">
+          <rect className="at" width={270} height={406} rx={15} />
           <rect
-            className="av"
+            className="au"
             x={0.5}
             y={0.5}
             width={269}
@@ -876,13 +845,13 @@ function Home() {
           />
         </g>
         <rect
-          className="an"
+          className="am"
           width={40}
           height={40}
           rx={5}
           transform="translate(829 1619)"
         />
-        <text className="ao" transform="translate(829 1684)">
+        <text className="an" transform="translate(829 1684)">
           <tspan x={0} y={22}>
             {"Real-World "}
           </tspan>
@@ -890,7 +859,7 @@ function Home() {
             {"Application"}
           </tspan>
         </text>
-        <text className="ap" transform="translate(829 1749)">
+        <text className="ao" transform="translate(829 1749)">
           <tspan x={0} y={13}>
             {"Practice investing "}
           </tspan>
@@ -910,10 +879,10 @@ function Home() {
             transform="translate(1.999 2.991)"
           />
         </g>
-        <g className="am" transform="translate(1074 1562)">
-          <rect className="au" width={270} height={406} rx={15} />
+        <g className="al" transform="translate(1074 1562)">
+          <rect className="at" width={270} height={406} rx={15} />
           <rect
-            className="av"
+            className="au"
             x={0.5}
             y={0.5}
             width={269}
@@ -922,7 +891,7 @@ function Home() {
           />
         </g>
         <rect
-          className="an"
+          className="am"
           width={40}
           height={40}
           rx={5}
@@ -934,7 +903,7 @@ function Home() {
             transform="translate(1.999 2.93)"
           />
         </g>
-        <text className="ao" transform="translate(1128 1683)">
+        <text className="an" transform="translate(1128 1683)">
           <tspan x={0} y={22}>
             {"Guest "}
           </tspan>
@@ -942,7 +911,7 @@ function Home() {
             {"Speakers"}
           </tspan>
         </text>
-        <text className="ap" transform="translate(1128 1751)">
+        <text className="ao" transform="translate(1128 1751)">
           <tspan x={0} y={13}>
             {"Join our network of "}
           </tspan>
@@ -1006,25 +975,25 @@ function Home() {
         </text>
       </g>
       <rect
-        className="aq"
+        className="ap"
         width={344}
         height={77}
         transform="translate(548 3557)"
       />
       <rect
-        className="ar"
+        className="aq"
         width={289}
         height={73}
         transform="translate(975 3798)"
       />
       <rect
-        className="as"
+        className="ar"
         width={231}
         height={107}
         transform="translate(387 3781)"
       />
       <rect
-        className="at"
+        className="as"
         width={257}
         height={145}
         transform="translate(668 3762)"

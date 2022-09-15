@@ -9,10 +9,10 @@ function App() {
   return (
     <div>
       <Home/>
-      <Clubs/>
+      {/* <Clubs/>
       <Donate/>
       <About/>
-      <Events/>
+      <Events/> */}
     </div>
   );
 }
